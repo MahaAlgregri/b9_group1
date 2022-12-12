@@ -17,6 +17,7 @@ public class B9A_FirstLab {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("The weather is nice!!");
+        System.out.println("Hi from github");
     }
     
 }
